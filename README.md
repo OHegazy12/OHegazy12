@@ -5,7 +5,7 @@ I am a passionate and dedicated software developer with expertise in iOS develop
 
 ### Skills ###
 
-- iOS Development: Proficient in building robust and user-friendly iOS applications using Swift and Objective-C. Experienced in creating apps for both iPhone and iPad, with a strong focus on performance and user experience.
+- iOS Development: Proficient in building robust and user-friendly iOS applications using UIKit & SwiftUI. Experienced in creating apps for both iPhone and iPad, with a strong focus on performance and user experience.
 
 - Game Development: Adept at game development with a creative flair, I have worked on projects that involve game design, graphics rendering, and implementing engaging gameplay mechanics. Familiar with Unity and Unreal Engine.
 
