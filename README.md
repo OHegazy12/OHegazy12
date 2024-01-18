@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OHegazy12&theme=tokyonight&layout=compact)
-
 ### About Me ###
 I am a passionate and dedicated software developer with expertise in iOS development, coupled with valuable experience in game development and web development. My journey in the world of coding has been driven by a relentless pursuit of innovation and a love for crafting elegant solutions.
 
@@ -14,3 +12,5 @@ I am a passionate and dedicated software developer with expertise in iOS develop
 - Web Development: While my primary focus is iOS, I also bring web development skills to the table, with some experience in creating responsive and dynamic websites using HTML, CSS, and JavaScript.
 
 - Problem Solver: I thrive on challenges and enjoy solving complex problems. Whether it's optimizing code for performance or finding innovative solutions, I approach every task with enthusiasm.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OHegazy12&theme=tokyonight&layout=compact)
