@@ -13,4 +13,4 @@ I am a passionate and dedicated software developer with expertise in iOS develop
 
 - Problem Solver: I thrive on challenges and enjoy solving complex problems. Whether it's optimizing code for performance or finding innovative solutions, I approach every task with enthusiasm.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OHegazy12&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OHegazy12&theme=tokyonight&layout=compact)
